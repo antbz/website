@@ -1,0 +1,16 @@
+body {
+    background-color: #f9f7f3;
+    overflow-x: hidden;
+}
+
+#landingHeader h1 {
+    color: #ff8600;
+}
+
+.navbar {
+    background-color: #f9f7f3;
+}
+
+#contacts {
+    font-size: 50px;
+}
